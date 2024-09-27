@@ -1,0 +1,49 @@
+nohup: ignoring input
+[I 2024-09-27 15:47:52.213 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-27 15:47:52.222 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-27 15:47:52.231 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-27 15:47:52.235 ServerApp] Writing Jupyter server cookie secret to /home/ec2-user/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-27 15:47:52.800 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-27 15:47:52.849 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-27 15:47:52.853 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-27 15:47:52.855 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-27 15:47:52.857 LabApp] JupyterLab extension loaded from /home/ec2-user/environment/jupyterlab-venv/lib64/python3.9/site-packages/jupyterlab
+[I 2024-09-27 15:47:52.857 LabApp] JupyterLab application directory is /home/ec2-user/environment/jupyterlab-venv/share/jupyter/lab
+[I 2024-09-27 15:47:52.858 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-27 15:47:52.866 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-27 15:47:52.867 ServerApp] Serving notebooks from local directory: /home/ec2-user/environment
+[I 2024-09-27 15:47:52.867 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-27 15:47:52.867 ServerApp] http://ip-10-0-1-41.ec2.internal:8888/lab?token=a57ec5f370577b7ef93d6b7ce44fd9e1056227c7fd3988a3
+[I 2024-09-27 15:47:52.867 ServerApp]     http://127.0.0.1:8888/lab?token=a57ec5f370577b7ef93d6b7ce44fd9e1056227c7fd3988a3
+[I 2024-09-27 15:47:52.867 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-27 15:47:52.876 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-27 15:47:52.876 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/jpserver-3958-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-1-41.ec2.internal:8888/lab?token=a57ec5f370577b7ef93d6b7ce44fd9e1056227c7fd3988a3
+        http://127.0.0.1:8888/lab?token=a57ec5f370577b7ef93d6b7ce44fd9e1056227c7fd3988a3
+[I 2024-09-27 15:47:53.642 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-09-27 15:49:05.767 LabApp] Build is up to date
+[I 2024-09-27 15:50:05.853 ServerApp] Writing notebook-signing key to /home/ec2-user/.local/share/jupyter/notebook_secret
+[W 2024-09-27 15:50:05.856 ServerApp] Notebook C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb is not trusted
+[I 2024-09-27 15:50:08.103 ServerApp] Kernel started: fb65574a-50c2-4789-a56b-34b274ca2d49
+[I 2024-09-27 15:50:09.082 ServerApp] Connecting to kernel fb65574a-50c2-4789-a56b-34b274ca2d49.
+[I 2024-09-27 15:50:09.620 ServerApp] Connecting to kernel fb65574a-50c2-4789-a56b-34b274ca2d49.
+[I 2024-09-27 15:50:10.167 ServerApp] Connecting to kernel fb65574a-50c2-4789-a56b-34b274ca2d49.
+[I 2024-09-27 15:51:43.198 ServerApp] Saving file at /src/env
+[I 2024-09-27 15:52:09.191 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 15:54:10.237 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[W 2024-09-27 15:54:44.621 ServerApp] Notebook C4_W2_Lab_1_Feature_Engineering_for_ML_Solution.ipynb is not trusted
+[I 2024-09-27 15:54:46.350 ServerApp] Kernel started: b692b02f-daa1-4161-ba79-82a3ec3bb70f
+[I 2024-09-27 15:54:47.180 ServerApp] Connecting to kernel b692b02f-daa1-4161-ba79-82a3ec3bb70f.
+[I 2024-09-27 15:56:10.895 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 15:56:20.242 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 15:56:20.953 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML_Solution.ipynb
+[I 2024-09-27 15:58:20.950 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 16:00:21.796 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 16:02:25.112 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 16:04:25.723 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 16:06:26.929 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
+[I 2024-09-27 16:06:56.612 ServerApp] Saving file at /C4_W2_Lab_1_Feature_Engineering_for_ML.ipynb
